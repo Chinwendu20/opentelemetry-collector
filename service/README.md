@@ -42,7 +42,7 @@ For more technical details about how configuration is resolved you can read the 
 Use the sub command build-info. Below is an example:
 
 ```bash
-   ./otelcorecol build-info
+   ./otelcorecol components
 ```
 Sample output:
 
